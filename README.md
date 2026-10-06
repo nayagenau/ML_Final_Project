@@ -21,3 +21,5 @@ The results showed a total of 3 groups. with the model recovering majority of th
 
 #### Reflection  
 Reflecting back, the model achieved a high accuracy in its predictions, separating the seeds with minimal mistakes. Difficulties were also present, especially since the number of clusters could not be concluded through pure math and human judgement was required. As such, if I had more time I would try other clustering algorithms too to see if they agree with the results and try other dimensionality reduction methods such as t-SNE.
+
+(Special thanks to the instructors and the LEAP program for guiding this project)
