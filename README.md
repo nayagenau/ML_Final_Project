@@ -2,7 +2,8 @@
 
 Unsupervised machine learning analysis and clustering with K-means and PCA on the Seeds dataset.
 
-  
+<br><br>
+
 #### Problem Statement  
 A cooperative business has received deliveries of mixed wheat grain, of which its varieties are unlabelled. Some basic measurements of each kernel are known, which the model uses to predict the number of varieties in the mixed deliveries and depict its separability.
 
